@@ -2,9 +2,11 @@
     "$schema": "../../../system/schema/language.json",
     "name": "Slovenčina",
     "description": "Slovenská lokalizácia systému.",
-    "version": "0.9.0",
+    "version": "0.9.1",
     "environment": {
         "system": "^8.0"
     },
-    "url": "https://jdanek.eu/"
+    "authors": [
+        {"name": "jDanek", "url": "https://jdanek.eu/"}
+    ]
 }
